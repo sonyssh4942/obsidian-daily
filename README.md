@@ -3937,3 +3937,4 @@ Auto Plant: 2025-05-28
 Auto Plant: 2025-05-29
 Auto Plant: 2025-05-30
 Auto Plant: 2025-05-31
+Auto Plant: 2025-06-01
